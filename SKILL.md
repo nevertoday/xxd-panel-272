@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-272
-description: "Create XXD Panel 272 raster artwork: a faithful photograph paired with one small monochrome character mark, naive black line, a hint of expression and a large quiet field. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-272 or asks for this 单色灵魂 style."
+description: "XXD Panel 272｜Monochrome Soul: keeps the photo and reduces its most recognisable subject to one small black-ink character mark — a building with a face, an animal with a temper, an object with a mood — drawn in hand-wobbled black lines of varying weight, a little solid black fill and white negative shapes, set very small in a large empty space, with an optional tiny hand-lettered label or sound word beside it. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-272 or asks for a monochrome doodle character logo, naive line-art icon or minimal emotional mark from a photo."
 ---
 
 # XXD Panel 272

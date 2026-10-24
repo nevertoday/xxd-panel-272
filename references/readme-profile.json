@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 272｜Monochrome Soul: keeps the photo and reduces its most recognisable subject to one small black-ink character mark — a building with a face, an animal with a temper, an object with a mood — drawn in hand-wobbled black lines of varying weight, a little solid black fill and white negative shapes, set very small in a large empty space, with an optional tiny hand-lettered label or sound word beside it. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-272 or asks for a monochrome doodle character logo, naive line-art icon or minimal emotional mark from a photo.",
+  "short_description": "单色灵魂：把照片主体收成一个有表情、有脾气的黑白手绘小角色符号",
+  "zh-CN": {
+    "name": "单色灵魂",
+    "tagline": "把照片主体收成一个有一点表情和脾气的黑白手绘小角色。",
+    "look": "原照片保留不动；主体被提炼成一个像标志一样好认的小角色：一栋带表情的房子、一只有性格的动物，或一个被拟人化的物件。只用粗细自然变化的黑线、少量黑色填充和白色负形，线条轻微抖动、不完全对称，偶尔断开。角色很小，像一枚印章或贴纸落在大片空白里，旁边可以有一句极短的手写小标签、拟声词或小注释。",
+    "traits": ["单色手绘", "角色符号", "墨线涂鸦", "情绪留白", "小灵魂"],
+    "good": [
+      "能读出性格或情绪的单一主体：一只打哈欠的猫、一只歪头的狗、一个低头的人",
+      "轮廓特别的建筑或物件，适合画成带表情的小角色：一座老钟楼、一把旧椅子、一个水壶",
+      "想做成头像、私人印章或手账标记的日常照片"
+    ],
+    "poor": [
+      "需要保留色彩的照片：花田、晚霞、彩色街景，下半只会剩黑白线",
+      "多人合影或热闹场面，这个风格只留一个角色",
+      "想要商业卡通 IP、精致动画、3D 或光滑矢量 Logo 的需求"
+    ]
+  },
+  "en": {
+    "name": "Monochrome Soul",
+    "tagline": "Turns the subject of your photo into one small black-and-white hand-drawn character with a hint of mood.",
+    "look": "Your photo stays as it is; the subject becomes one small character as easy to recognise as a logo: a building with a face, an animal with a temper, an object given a personality. It is drawn only in black lines of naturally varying weight, a little solid black and white negative shapes, with a slight wobble, imperfect symmetry and the odd broken line. The character is tiny, like a stamp or sticker in a wide empty space, with perhaps one very short handwritten tag, sound word or note beside it.",
+    "traits": ["Monochrome doodle", "Character mark", "Ink line art", "Emotional whitespace", "Tiny soul"],
+    "good": [
+      "A single subject with a readable mood: a yawning cat, a dog tilting its head, a person looking down",
+      "Buildings or objects with a distinctive outline that can become a little character: an old clock tower, a worn chair, a kettle",
+      "Everyday photos you want as an avatar, a personal stamp or a journal mark"
+    ],
+    "poor": [
+      "Photos whose colour is the point, such as flower fields, sunsets or bright street scenes, since only black lines remain",
+      "Group photos or busy scenes, because the style keeps one character only",
+      "Requests for a commercial cartoon mascot, polished animation, 3D or a glossy vector logo"
+    ]
+  },
+  "ja": {
+    "name": "モノクロの小さな魂",
+    "tagline": "写真の主役を、少し表情と気分のある白黒の手描きキャラクターにします。",
+    "look": "元の写真はそのまま残し、主役をロゴのように見分けやすい小さなキャラクターにまとめます。表情のある建物、性格のある動物、擬人化された小物などです。描くのは太さが自然に揺れる黒い線、少しの黒ベタ、白い抜きの形だけで、線はわずかに震え、左右非対称で、ところどころ途切れます。キャラクターはとても小さく、はんこやシールのように広い余白に置かれ、そばに短い手書きのラベル、擬音語、メモが添えられることもあります。",
+    "traits": ["モノクロ手描き", "キャラクター記号", "墨線の落書き", "感情の余白", "小さな魂"],
+    "good": [
+      "性格や気分が読み取れるひとつの主役：あくびする猫、首をかしげる犬、うつむく人",
+      "表情のある小さなキャラクターにしやすい形の建物や物：古い時計塔、使い込んだ椅子、やかん",
+      "アイコン、個人用のはんこ、手帳のマークにしたい日常写真"
+    ],
+    "poor": [
+      "色が主役の写真：花畑、夕焼け、色鮮やかな街並み（下半分は黒い線だけになります）",
+      "集合写真やにぎやかな場面（残るキャラクターはひとつだけです）",
+      "商業キャラクター、作り込んだアニメ調、3D、つるっとしたベクターロゴを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "단색 영혼",
+    "tagline": "사진 속 주인공을 약간의 표정과 성깔이 있는 흑백 손그림 캐릭터 하나로 바꿉니다.",
+    "look": "원본 사진은 그대로 두고, 주인공을 로고처럼 알아보기 쉬운 작은 캐릭터로 줄입니다. 표정이 있는 건물, 성격이 드러나는 동물, 의인화된 물건 같은 식입니다. 굵기가 자연스럽게 변하는 검은 선과 약간의 검은 채움, 흰 여백 형태만 쓰며, 선은 살짝 떨리고 좌우가 완전히 같지 않고 군데군데 끊깁니다. 캐릭터는 아주 작아서 도장이나 스티커처럼 넓은 여백에 놓이고, 옆에 아주 짧은 손글씨 라벨이나 의성어, 메모가 붙기도 합니다.",
+    "traits": ["단색 손그림", "캐릭터 심벌", "잉크 낙서", "감정의 여백", "작은 영혼"],
+    "good": [
+      "성격이나 기분이 읽히는 주인공 하나: 하품하는 고양이, 고개를 갸웃한 강아지, 고개 숙인 사람",
+      "표정 있는 캐릭터로 만들기 좋은 윤곽의 건물이나 물건: 오래된 시계탑, 낡은 의자, 주전자",
+      "프로필 사진, 개인 도장, 다이어리 마크로 쓰고 싶은 일상 사진"
+    ],
+    "poor": [
+      "색이 핵심인 사진: 꽃밭, 노을, 화려한 거리(아래쪽에는 검은 선만 남습니다)",
+      "단체 사진이나 붐비는 장면(캐릭터는 하나만 남깁니다)",
+      "상업용 캐릭터, 정교한 애니메이션, 3D, 매끈한 벡터 로고를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "الروح أحادية اللون",
+    "tagline": "يحوّل العنصر الرئيسي في صورتك إلى شخصية صغيرة مرسومة باليد بالأبيض والأسود، فيها شيء من المزاج والطبع.",
+    "look": "تبقى صورتك كما هي، ويُختصر عنصرها الرئيسي في شخصية صغيرة يسهل تمييزها كالشعار: مبنى له وجه، أو حيوان له طبع، أو غرض صار له مزاج. يُرسم بخطوط سوداء يتفاوت سمكها طبيعياً، مع قليل من التعبئة السوداء وأشكال سالبة بيضاء، والخط فيه ارتعاش خفيف وعدم تماثل وانقطاعات متفرقة. تبقى الشخصية صغيرة جداً كختم أو ملصق في مساحة فارغة واسعة، وقد تُضاف بجانبها عبارة قصيرة جداً بخط اليد أو كلمة صوتية أو ملاحظة صغيرة.",
+    "traits": ["رسم يدوي أحادي اللون", "رمز شخصية", "خربشة بالحبر", "فراغ عاطفي", "روح صغيرة"],
+    "good": [
+      "عنصر واحد يظهر طبعه أو مزاجه: قطة تتثاءب، كلب يميل برأسه، شخص مطأطئ الرأس",
+      "مبانٍ أو أغراض ذات شكل مميز يمكن أن تصير شخصية صغيرة: برج ساعة قديم، كرسي مستعمل، إبريق",
+      "صور يومية تريدها صورة شخصية أو ختماً خاصاً أو علامة في دفتر يوميات"
+    ],
+    "poor": [
+      "صور يكون اللون جوهرها، كحقول الزهور والغروب والشوارع الملوّنة، إذ لا يبقى إلا الخط الأسود",
+      "الصور الجماعية والمشاهد المزدحمة، لأن الأسلوب يُبقي شخصية واحدة فقط",
+      "طلب شخصية كرتونية تجارية أو رسوم متحركة مصقولة أو مظهر ثلاثي الأبعاد أو شعار متجهي لامع"
+    ]
+  }
+}
